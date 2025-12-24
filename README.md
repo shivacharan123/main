@@ -1,9 +1,5 @@
 # main
 
-Here’s a clean, concise GitHub README you can directly use for this project.
-It explains **what the code does, how it works, and how to run it**—brief but professional (perfect for recruiters and reviewers).
-
----
 
 🔥 Agentic Web Scraping Assistant (MCP + LangGraph + Firecrawl)
 
